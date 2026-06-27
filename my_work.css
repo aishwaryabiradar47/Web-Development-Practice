@@ -65,12 +65,12 @@ h1{
 }
 
 :root {
-  --ink: #2d60c6;
+  --ink: #1e3a8a;
   --ink-soft: #5a5d63;
   --paper: #ffffff;
   --paper-raised: #ffffff;
   --line: #e4e0d8;
-  --accent: #3a3aff;
+  --accent: #1e3a8a;
   --accent-soft: #ecebff;
   --mono: "JetBrains Mono", "SFMono-Regular", "Consolas", monospace;
   --sans: "Inter", -apple-system, "Segoe UI", sans-serif;
