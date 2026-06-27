@@ -285,7 +285,7 @@ body{
 
 /* Section Label */
 .section-label{
-    color: #4f46e5;
+    color: #1e3a8a;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -309,7 +309,7 @@ h1{
 .avatar{
     width: 90px;
     height: 90px;
-    background: #4f46e5;
+    background: #1e3a8a;
     color: white;
     font-size: 2rem;
     font-weight: bold;
@@ -349,7 +349,7 @@ h1{
 }
 
 .skill-box h3{
-    color: #4f46e5;
+    color: #1e3a8a;
     margin-bottom: 20px;
 }
 
@@ -389,7 +389,7 @@ h1{
 }
 
 .skills-container > ul strong{
-    color: #4f46e5;
+    color: #1e3a8a;
 }
 
 /* Responsive */
@@ -441,7 +441,7 @@ h1{
 }
 .strengths-list li strong{
     font-size: 15px;   /* Teamwork, Communication, etc. */
-    color: #4f46e5;
+    color: #1e3a8a;
      display: block;
     margin-bottom: 10px;
 }
