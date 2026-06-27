@@ -1,3 +1,4 @@
+/* Reset */
 * {
     margin: 0;
     padding: 0;
@@ -27,13 +28,13 @@ p {
 /* Links */
 a {
     text-decoration: none;
-    color: #2563eb;
+    color: #1e3a8a;
     font-weight: bold;
     margin: 8px;
     transition: 0.3s;
 }
 a:hover {
-    color: #1e40af;
+    color: #1e3a8a;
 }
 .social-links {
     display: flex;
@@ -63,13 +64,13 @@ textarea {
 }
 input:focus,
 textarea:focus {
-    border-color: #2563eb;
+    border-color: #1e3a8a;
 }
 /* Button */
 button {
     width: 100%;
     padding: 12px;
-    background: #2563eb;
+    background: #1e3a8a;
     color: white;
     border: none;
     border-radius: 8px;
@@ -78,7 +79,7 @@ button {
     transition: 0.3s;
 }
 button:hover {
-    background: #1e40af;
+    background: #1e3a8a;
 }
 /* Responsive */
 @media (max-width: 600px) {
